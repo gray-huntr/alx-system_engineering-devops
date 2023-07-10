@@ -1,2 +1,2 @@
 #!/bin/bash
-tr -s ' '  '\n' | cut -c 1
+echo "This is my life" |tr -s ' '  '\n' | cut -c 1
